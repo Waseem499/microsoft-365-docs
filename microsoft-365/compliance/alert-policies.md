@@ -33,7 +33,7 @@ Alert policies let you categorize the alerts that are triggered by a policy, app
 
 ## How alert policies work
 
-Here's a quick overview of how alert policies work and the alerts that are triggers when user or admin activity matches the conditions of an alert policy.
+Here's a quick overview of how alert policies work and the alerts that are triggered when user or admin activity matches the conditions of an alert policy.
 
 ![Overview of how alert policies work.](../media/M365ComplianceDefender-AlertPolicies-Overview.png)
 
